@@ -16,7 +16,7 @@ Finans é uma ferramenta online projetada para simplificar sua vida financeira. 
 
 
 ## Capturas de Tela
-![Captura de tela da página inicial](img/capa-mulher.png)
+![Captura de tela da página inicial](img/img1.png)
 *Página Inicial*
 
 ![Captura de tela de visualização gráfica](img/saiba.png)
